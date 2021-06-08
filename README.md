@@ -4,7 +4,8 @@
 
 
 - 🚀 Skills : **HTML5** | **CSS3** | **UI/UX Design** | **Javascript** | **ReactJS** | **Firebase** | **Node.js** | **Yarn** | **NPM**
-- 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn** and **NPM** <br /> <br />
+- 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn**, **NPM** and **Django**
+- Need some to help me with **Django** <br/> <br/>
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=abhilashk23&theme=radical&show_icons=true">
@@ -33,6 +34,7 @@
   <span><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span> &nbsp;
   <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png"></span> &nbsp;
   <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png"></span> &nbsp;
+  <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-3628663-3029888.png"></span> &nbsp;
   
 
   
