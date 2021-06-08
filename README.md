@@ -8,9 +8,8 @@
 - Need someone to help me with **Django** <br/> <br/>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=abhilashk23&theme=radical&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashk23&theme=radical&show_icons=true" />
-</a> <br /> <br />
+![Abhilash Khuntia's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashk23&show_icons=true&theme=radical)
+ <br /> <br />
 
 
 ### Connect with me
