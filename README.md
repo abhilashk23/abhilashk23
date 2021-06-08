@@ -9,7 +9,7 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=abhilashk23&theme=radical&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashk233&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashk23&theme=radical&show_icons=true" />
 </a> <br /> <br />
 
 
