@@ -5,7 +5,7 @@
 
 - 🚀 Skills : **HTML5** | **CSS3** | **UI/UX Design** | **Javascript** | **ReactJS** | **Firebase** | **Node.js** | **Yarn** | **NPM**
 - 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn**, **NPM** and **Django**
-- Need some to help me with **Django** <br/> <br/>
+- Need someone to help me with **Django** <br/> <br/>
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=abhilashk23&theme=radical&show_icons=true">
