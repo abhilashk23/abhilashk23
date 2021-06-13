@@ -50,6 +50,10 @@
   <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png"> &nbsp;
   <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"> &nbsp;
   <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png"> &nbsp;
+ 
+ 
+ ### Video Editing 
+ <img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552457.png"> &nbsp;
   
 </details>
 
