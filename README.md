@@ -8,8 +8,9 @@
 - Need someone to help me with **Django** <br/> <br/>
 
 
+
 ![Abhilash Khuntia's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashk23&show_icons=true&theme=radical)
- <br /> <br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhilashk23)](https://git.io/streak-stats)
 
 
 ### Connect with me
