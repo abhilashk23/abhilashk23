@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, My name is Abhilash Khuntia 🧑🏻‍💻
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, My name is Abhilash Khuntia 🧑🏻‍💻
 ### Connect with me
 <a href ="https://www.instagram.com/vintageak47/"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
