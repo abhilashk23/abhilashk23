@@ -12,8 +12,7 @@
 
 
 - 🚀 Skills : **HTML5** | **CSS3** | **UI/UX Design** | **Javascript** | **ReactJS** | **Firebase** | **Node.js** | **Yarn** | **NPM**
-- 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn**, **NPM** and **Django**
-- Need someone to help me with **Django** <br/> <br/>
+- 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn**, **NPM** and **Express.js**, **MongoDB**
 
 
 
