@@ -11,17 +11,16 @@
 <h3 align="center"><img src ="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></h3>
 
 
-- 🚀 Skills : **HTML5** | **CSS3** | **UI/UX Design** | **Javascript** | **ReactJS** | **Firebase** | **Node.js** | **Yarn** | **NPM**
+- 🚀 Skills : **HTML5** | **CSS3** | **UI/UX Design** | **Javascript** | **ReactJS** | **Node.js** | **Yarn** | **NPM** | **MongoDB** | **Express.js** 
 - 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn**, **NPM** and **Express.js**, **MongoDB**
 
 
 
-![Abhilash Khuntia's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashk23&show_icons=true&theme=radical)
+![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashk23&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhilashk23&theme=radical)](https://git.io/streak-stats)
 
 
-[![Abhilash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhilashk23&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Abhilash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhilashk23&theme=react-dark)](https://github.com/abhilashk23/github-readme-activity-graph)
 
 
 
