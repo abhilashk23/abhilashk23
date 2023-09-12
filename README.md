@@ -54,7 +54,7 @@
  
  
  <! ---### Video Editing 
- #<img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552457.png"> &nbsp;--->
+ #<img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552457.png"> --->
   
 </details>
 
