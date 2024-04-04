@@ -9,8 +9,8 @@
 </a> <br /> <br />
 
 <div style="display:flex;">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="500">
-  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" height="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="400" height="400">
 </div>
 
 - 🚀 Skills : **HTML5** | **CSS3** | **Javascript** | **ReactJS** | **Node.js** | **Yarn** | **NPM** | **MongoDB** | **Express.js** 
