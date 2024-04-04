@@ -8,8 +8,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> <br /> <br />
 
-<h3 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600"></h3>
-
+<div style="display:flex;">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="500" height="500">
+</div>
 
 - 🚀 Skills : **HTML5** | **CSS3** | **Javascript** | **ReactJS** | **Node.js** | **Yarn** | **NPM** | **MongoDB** | **Express.js** 
 - 🎓 I am still learning **ReactJS**, **Node.js**, **Yarn**, **NPM** and **Express.js**, **MongoDB**, **Next.js**
